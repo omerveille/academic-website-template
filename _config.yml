@@ -1,7 +1,7 @@
 # Site settings
-title: Odyssée Merveille
-email: odyssee.merveille@creatis.insa-lyon.fr
-description: Academic webpage of Dr. Odyssée Merveille
+title: "Odyssée Merveille"
+email: "odyssee.merveille@creatis.insa-lyon.fr"
+description: "Academic webpage of Dr. Odyssée Merveille"
 baseurl: ""
 url: "https://omerveille.github.io"
 
