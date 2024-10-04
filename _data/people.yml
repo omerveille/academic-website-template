@@ -1,17 +1,17 @@
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2022
+- name: Pierre Rougé
+  location: Creatis / CreSTIC
+  degree: Ph.D. student
+  year: 2021-2025
 
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2021
+- name: Morgane des Ligneris
+  location: Creatis
+  degree: Ph.D. student
+  year: 2022-2025
 
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2020
+- name: Gabriel Jacquinot
+  location: Creatis
+  degree: Master student
+  year: 2024
 
 - name: Student Here
   location: Univesity Here

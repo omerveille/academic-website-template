@@ -1,9 +1,9 @@
 # Site settings
-title: "Odyssée Merveille"
-email: "odyssee.merveille@creatis.insa-lyon.fr"
-description: "Academic webpage of Dr. Odyssée Merveille"
-baseurl: ""
-url: "https://omerveille.github.io"
+title: Odyssée Merveille
+email: odyssee.merveille@creatis.insa-lyon.fr
+description: Academic webpage of Dr. Odyssée Merveille
+baseurl: "~merveille"
+url: "https://www.creatis.insa-lyon.fr/"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
@@ -14,12 +14,14 @@ url: "https://omerveille.github.io"
 affiliation: >
     Odyssée Merveille<br/>
     Associate Professor<br/>
-    Creatis / INSA Lyon
+    CREATIS laboratory
 
 location: >
-  Creatis<br/>
-  21 Avenue Jean Capelle O.<br/>
-  69100 Villeurbanne
+  CREATIS<br/>
+  Bâtiment Léonard de Vinci<br/>
+  21 Av. Jean Capelle O<br/>
+  69100 Villeurbanne<br/>
+
 
 contact: >
     <a href="mailto:odyssee.merveille@creatis.insa-lyon.fr" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Odyssée via email</a> <br/>
@@ -27,12 +29,13 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
+  #- name: about
   - name: publications
+  #- name: talks
   - name: research
   - name: software
   - name: team
-  - name: teaching
+  #- name: teaching
 
 include:
   - .htaccess
@@ -62,8 +65,8 @@ plugins: ['jekyll/scholar']
 
 scholar:
 
-  last_name: Doe
-  first_name: [John]
+  last_name: Merveille
+  first_name: [Odyssée]
 
   style: citesty
   locale: en

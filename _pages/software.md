@@ -34,7 +34,7 @@ iframe {
 }
 </style>
 
-## Software
+<!-- ## Software
 
 <div class="jumbotron">
 <div class="row align-items-end">
@@ -49,6 +49,37 @@ iframe {
 
 Example software description.
 
+</div>
+</div>
+</div> -->
+
+
+## Software
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<h4><b>PulmonaryArteriesSegmentor </b></h4>
+
+<a href="https://github.com/omerveille/PulmonaryArteriesSegmentor" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>
+
+A 3D Slicer plugin to annotate semi-automatically pulmonary vessels from CTPA images.
+</div>
+</div>
+</div>
+
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<h4><b>RORPO </b></h4>
+<h6><b>Ranking Orientation Responses of Path Openings </b></h6>
+
+<a href="https://path-openings.github.io/RORPO/" target="_blank"><button class="btn btn-success btn-sm">WEBSITE</button></a>
+<a href="https://github.com/path-openings/RORPO" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>
+<a href="https://hal.science/hal-01262728v2/file/RORPO_PAMI_v3.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+
+RORPO is a low-level tubular structure detection filter based on mathematical morphology.
 </div>
 </div>
 </div>

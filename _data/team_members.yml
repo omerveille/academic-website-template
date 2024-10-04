@@ -1,9 +1,17 @@
-- name: Example student name
-  photo: rock.jpg
-  info: Postdoc, started Oct 2040
-  email: exampleemail@gmail.com
-  website: https://website.com
+- name: Pierre Rougé
+  photo: pierre_rouge.png
+  info: PhD Student, started Oct 2021
+  email: pierre.rouge@creatis.insa-lyon.fr 
+  #website: https://website.com
 
-- name: "This could be you !"
+- name: Morgane des Ligneris
+  photo: photo-Morgane-DES-LIGNERIS.png
+  info: PhD Student, started Jan 2023
+  email: morgane.des-ligneris@creatis.insa-lyon.fr
+  #website: https://website.com
+
+- name: Dakini Mallam
   photo: rock.jpg
-  info: See <a href="www">openings</a> for more info
+  info: PhD Student, started Sept 2024
+  email: dakini.mallam@metacognitia.com
+  #website: https://website.com

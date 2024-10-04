@@ -1,6 +1,14 @@
-- date: 1 January, 1941
-  headline: "Example news here"
+- date: 2 September, 2024
+  headline: "Dakini Mallam begins her PhD in Collaboration with <a href=https://www.metacognitia.com/> Metacognitia </a>"
 
-- date: 1 January, 1940
-  headline: "Example news here"
+- date: 20 July, 2024
+  headline: "Two articles accepted at the <a href=https://topology-miccai.github.io/First_TGI_2024.html> MICCI TGI3 Workshop </a>"
 
+- date: 17 July, 2024
+  headline: "<s>Open post-doc position (see <a href=https://www.creatis.insa-lyon.fr/site/en/recrutement/graph-representation-learning-pulmonary-embolism-risk-stratification-models> here </a>)</s> Filled"
+
+- date: 10 June, 2024
+  headline: "Article accepted in Neurocomputing"
+
+- date: 7 May, 2024
+  headline: "Sophie Carneiro Esteves defended their PhD thesis !"

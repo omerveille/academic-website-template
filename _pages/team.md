@@ -7,11 +7,11 @@ permalink: /team/
 
 ## Team
 
- **We are  looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ Open post-doc position (see [here](https://www.creatis.insa-lyon.fr/site/en/recrutement/graph-representation-learning-pulmonary-embolism-risk-stratification-models))
 
-## PI
+<!--## PI
 
-{% for member in site.data.pi %}
+ {% for member in site.data.pi %}
 
 <div class="jumbotron">
 <div class="row">
@@ -31,10 +31,10 @@ permalink: /team/
 </div>
 </div>
 
-{% endfor %}
+{% endfor %} -->
 
 
-## Current Students and Postdocs
+### Current PhD students and Postdocs
 
 <div class='jumbotron'>
 {% assign number_printed = 0 %}
@@ -77,7 +77,7 @@ permalink: /team/
 </div>
 
 
-## Alumni
+### Alumni
 
 <div class="jumbotron">
 {% assign number_printed = 0 %}
@@ -111,9 +111,4 @@ permalink: /team/
 </div>
 {% endif %}
 </div>
-
-
-## Administrative Support
-
-<a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
 
